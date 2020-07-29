@@ -1,5 +1,5 @@
 # HRNet
-HRNet implementation in PyTorch
+A compact HRNet implementation in PyTorch
 
 ### Training and validation results
 
