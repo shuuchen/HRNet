@@ -8,7 +8,7 @@ A compact HRNet implementation in PyTorch
 
 </div>
 
-### Training and validation results
+### Training and validation loss curves
 
 <div align=center>
 
