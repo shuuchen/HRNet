@@ -1,7 +1,20 @@
 # HRNet
 A compact HRNet implementation in PyTorch
 
+
+<div align=center>
+
+![](images/hrnet.jpg)
+
+</div>
+
 ### Training and validation results
+
+<div align=center>
+
+<img src="https://github.com/shuuchen/HRNet/blob/master/images/loss.png" width="400" height="200" />
+
+</div>
 
 ### How to use
 ```python
