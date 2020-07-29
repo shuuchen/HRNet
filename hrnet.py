@@ -1,9 +1,10 @@
 '''
 This file is an implementation of the following paper:
 
-	Deep High-Resolution Representation Learning for Visual Recognition
+	Deep High-Resolution Representation Learning for Visual Recognition, 2020
 	https://arxiv.org/pdf/1908.07919.pdf
-	2020
+
+	By Shuchen Du
 
 '''
 import torch
