@@ -2,7 +2,7 @@
 A compact HRNet implementation in PyTorch
 
 
-<div align=center>
+<div align=left>
 
 ![](images/hrnet.jpg)
 
@@ -10,9 +10,9 @@ A compact HRNet implementation in PyTorch
 
 ### Training and validation loss curves
 
-<div align=center>
+<div align=left>
 
-<img src="https://github.com/shuuchen/HRNet/blob/master/images/loss.png" width="400" height="200" />
+<img src="https://github.com/shuuchen/HRNet/blob/master/images/loss.png" width="480" height="200" />
 
 </div>
 
