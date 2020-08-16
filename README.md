@@ -8,7 +8,7 @@ A compact HRNet implementation in PyTorch
 
 </div>
 
-### Training and validation loss curves
+### Performance
 
 <div align=left>
 
@@ -16,7 +16,7 @@ A compact HRNet implementation in PyTorch
 
 </div>
 
-### How to use
+### Usage
 ```python
 from hrnet import HRNet
 
