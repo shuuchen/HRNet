@@ -1,6 +1,5 @@
 # HRNet
-A compact HRNet implementation in PyTorch
-
+A compact HRNet implementation in PyTorch without YAML configuration
 
 <div align=left>
 
