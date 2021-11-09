@@ -22,6 +22,10 @@ from hrnet import HRNet
 '''
 parameters from left to right:
   input channels, first branch channels (hyper parameter), output channels
+  
+notice:
+  Only the number of first branch channels is necessary, numbers of channels of 
+  other branches are calculated according to the paper
 '''
 model = HRNet(3, 16, 8)
 ```
